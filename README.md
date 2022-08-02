@@ -28,4 +28,4 @@ If you don't want to use Photoshop (PSD attached) or Affinity Dessigner (templat
 
 The SVG can be edited with [Inkscape](https://inkscape.org/es/) which is a free vector design program.
 
-![Editing the SVG in Inkscape](inkscape.svg)
+![Editing the SVG in Inkscape](inkscape.png)
